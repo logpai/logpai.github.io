@@ -49,9 +49,4 @@ body{
     border-top: 3px solid #e7e7e7;
 }
 
-.vcenter {
-    display: inline-block;
-    vertical-align: middle;
-    float: none;
-    text-align: center;
-}
+
